@@ -36,12 +36,9 @@ A criação desta plataforma se justifica pela necessidade urgente de repensar o
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+A solução proposta tem como foco atender a diversos segmentos, dentre os quais se destacam:
+    • Consumidores: Pessoas que desejam descartar itens que ainda estão em bom estado, mas que não encontram alternativas viáveis para a destinação correta, bem como aqueles que buscam adquirir produtos usados a preços acessíveis. 
+    • Moradores de áreas urbanas: Especialmente os que enfrentam desafios relacionados ao descarte de itens volumosos e que sofrem com os impactos visuais e sanitários decorrentes do descarte inadequado. 
+    • Pessoas carentes: Indivíduos e famílias de baixa renda que podem se beneficiar ao receber doações através da plataforma, tendo acesso a itens úteis.
+    • Comunidades e organizações locais: Grupos e cooperativas que promovem a reciclagem e a sustentabilidade, podendo utilizar a plataforma para ampliar suas ações. 
+    • Gestores municipais: Profissionais e órgãos responsáveis pela gestão de resíduos e pelo planejamento urbano, que podem se beneficiar de uma ferramenta integrada para otimizar a coleta e o descarte de resíduos.
