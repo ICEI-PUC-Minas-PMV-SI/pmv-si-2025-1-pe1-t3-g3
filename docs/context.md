@@ -7,16 +7,11 @@ O descarte indevido de lixo no Brasil é um problema fortemente influenciado pel
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, **não** é a hora de comentar sobre a solução/aplicação.
+Na sociedade atual, o consumo excessivo aliado à cultura do descarte gera a perda de itens que ainda estão em bom estado. Esse problema se manifesta especialmente em itens volumosos, como móveis e eletrodomésticos, que muitas vezes são descartados de maneira inadequada. A ausência de uma plataforma integrada que ofereça alternativas para reciclagem, doação e venda – com ênfase no alcance local – agrava os seguintes aspectos:
+    • Impactos ambientais: O descarte incorreto contribui para a degradação urbana e a criação de áreas que favorecem a proliferação de insetos, aumentando os riscos à saúde pública.
+    • Desafios sociais: Consumidores descartam itens valiosos por falta de alternativas acessíveis. Além disso, indivíduos de baixa renda enfrentam desafios adicionais, pois a ausência de opções viáveis para o descarte e a aquisição sustentável, aliada a restrições financeiras, limita seu acesso a bens que poderiam melhorar sua qualidade de vida.
+    • Problemas de mobilidade e infraestrutura: O acúmulo de resíduos em áreas urbanas prejudica a paisagem e a mobilidade, além de sobrecarregar a gestão municipal, que frequentemente carece de políticas e infraestrutura eficazes para a coleta e reciclagem.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
