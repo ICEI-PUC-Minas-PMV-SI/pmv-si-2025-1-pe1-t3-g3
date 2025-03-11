@@ -15,12 +15,16 @@ Na sociedade atual, o consumo excessivo aliado à cultura do descarte gera a per
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Objetivo Geral:
+Desenvolver uma solução web que integre as funcionalidades de reciclagem, doação e venda de itens, com foco local, promovendo o reaproveitamento de bens e contribuindo para a sustentabilidade urbana.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Objetivos Específicos:
+    • Permitir o cadastro e a visualização de itens disponíveis para venda, doação e reciclagem, com filtros geográficos para facilitar a conexão entre usuários da mesma cidade ou região. 
+    • Oferecer orientações e informações sobre o descarte correto e a reciclagem de itens, estimulando práticas sustentáveis. 
+    • Facilitar a comunicação entre os usuários interessados, incentivando a economia colaborativa e a reutilização de produtos. 
+    • Contribuir para a redução dos impactos ambientais causados pelo descarte inadequado, promovendo a economia circular. 
+    • Apoiar a gestão municipal e as políticas públicas voltadas para a sustentabilidade, integrando iniciativas locais de reciclagem e reaproveitamento. 
+
 
 ## Justificativa
 
