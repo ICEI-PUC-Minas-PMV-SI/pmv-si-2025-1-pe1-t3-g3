@@ -1,12 +1,9 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+O descarte indevido de lixo é um problema ambiental e social que afeta cidades e ecossistemas em todo o mundo. Quando resíduos não são descartados corretamente, eles podem contaminar o solo, a água e o ar, além de contribuir para enchentes, poluição visual/olfativa e a proliferação de doenças. Fatores como a falta de infraestrutura adequada para coleta, a ausência de conscientização da população e a irresponsabilidade de empresas e indivíduos agravam essa questão. 
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
+O descarte indevido de lixo no Brasil é um problema fortemente influenciado pelo ambiente social e político, uma vez que aspectos como educação, infraestrutura, desigualdade e cultura moldam os hábitos da população. A falta de conscientização ambiental contribui para que muitas pessoas não saibam a maneira correta de descartar seus resíduos, tornando comum o acúmulo de lixo em ruas, rios e terrenos baldios. Esse problema se agrava em regiões onde a infraestrutura de coleta seletiva é precária ou inexistente, dificultando ainda mais a destinação correta dos materiais recicláveis e orgânicos.
 
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
 
 ## Problema
 
