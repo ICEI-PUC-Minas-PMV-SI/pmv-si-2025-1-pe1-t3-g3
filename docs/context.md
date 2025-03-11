@@ -28,14 +28,11 @@ Objetivos Específicos:
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-Lembre-se de pesquisar e utilizar números que justifiquem por que é importante que tal problema seja resolvido ou que mostrem o impacto do problema na vida das pessoas.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A criação desta plataforma se justifica pela necessidade urgente de repensar os modelos de consumo e descarte, principalmente em um contexto urbano onde os impactos ambientais e sociais estão cada vez mais evidentes. Entre os pontos que reforçam a relevância do projeto, destacam-se:
+    • Sustentabilidade e meio ambiente: Ao incentivar a reutilização e a reciclagem, a plataforma contribui para a diminuição do descarte inadequado e dos impactos ambientais, preservando a paisagem urbana e reduzindo riscos à saúde. 
+    • Inclusão social e economia local: A possibilidade de troca, doação e venda de itens beneficia tanto quem deseja se desfazer de produtos ainda úteis quanto quem busca adquirir bens a custos mais acessíveis, fomentando a economia local e a inclusão de pessoas de baixa renda. 
+    • Apoio a políticas públicas: Ao oferecer uma ferramenta prática e acessível para o gerenciamento de resíduos e a promoção do consumo consciente, o projeto pode auxiliar a gestão municipal na implementação de políticas de sustentabilidade e coleta seletiva. 
+    • Inovação e integração social: A proposta une três funcionalidades (reciclagem, doação e venda) em uma única plataforma, proporcionando uma solução integrada e inovadora que atende às demandas contemporâneas de sustentabilidade e mobilidade urbana. 
 
 ## Público-Alvo
 
