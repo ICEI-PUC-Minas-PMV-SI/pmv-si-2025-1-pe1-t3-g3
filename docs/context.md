@@ -1,17 +1,15 @@
 # Introdução
 
-O descarte indevido de lixo é um problema ambiental e social que afeta cidades e ecossistemas em todo o mundo. Quando resíduos não são descartados corretamente, eles podem contaminar o solo, a água e o ar, além de contribuir para enchentes, poluição visual/olfativa e a proliferação de doenças. Fatores como a falta de infraestrutura adequada para coleta, a ausência de conscientização da população e a irresponsabilidade de empresas e indivíduos agravam essa questão. 
+O descarte indevido de lixo é um problema ambiental e social que afeta cidades e ecossistemas em todo o mundo. Quando resíduos não são descartados corretamente, eles podem contaminar o solo, a água e o ar, além de contribuir para enchentes, poluição visual/olfativa e a proliferação de doenças. Fatores como a falta de infraestrutura adequada para coleta, a ausência de conscientização da população e a irresponsabilidade de empresas e indivíduos agravam essa questão.
 
-O descarte indevido de lixo no Brasil é um problema fortemente influenciado pelo ambiente social e político, uma vez que aspectos como educação, infraestrutura, desigualdade e cultura moldam os hábitos da população. A falta de conscientização ambiental contribui para que muitas pessoas não saibam a maneira correta de descartar seus resíduos, tornando comum o acúmulo de lixo em ruas, rios e terrenos baldios. Esse problema se agrava em regiões onde a infraestrutura de coleta seletiva é precária ou inexistente, dificultando ainda mais a destinação correta dos materiais recicláveis e orgânicos.
-
+O descarte indevido de lixo no Brasil é um problema fortemente influenciado pelo ambiente social e político, uma vez que aspectos como educação, infraestrutura, desigualdade e cultura moldam os hábitos da população. A falta de conscientização ambiental contribui para que muitas pessoas não saibam a maneira correta de descartar seus resíduos, tornando comum o acúmulo de lixo em ruas, rios e terrenos baldios. Esse problema se agrava em regiões onde a infraestrutura de coleta seletiva é precária ou inexistente, dificultando ainda mais a destinação correta dos materiais recicláveis.
 
 ## Problema
 
 Na sociedade atual, o consumo excessivo aliado à cultura do descarte gera a perda de itens que ainda estão em bom estado. Esse problema se manifesta especialmente em itens volumosos, como móveis e eletrodomésticos, que muitas vezes são descartados de maneira inadequada. A ausência de uma plataforma integrada que ofereça alternativas para reciclagem, doação e venda – com ênfase no alcance local – agrava os seguintes aspectos:
-    • Impactos ambientais: O descarte incorreto contribui para a degradação urbana e a criação de áreas que favorecem a proliferação de insetos, aumentando os riscos à saúde pública.
-    • Desafios sociais: Consumidores descartam itens valiosos por falta de alternativas acessíveis. Além disso, indivíduos de baixa renda enfrentam desafios adicionais, pois a ausência de opções viáveis para o descarte e a aquisição sustentável, aliada a restrições financeiras, limita seu acesso a bens que poderiam melhorar sua qualidade de vida.
-    • Problemas de mobilidade e infraestrutura: O acúmulo de resíduos em áreas urbanas prejudica a paisagem e a mobilidade, além de sobrecarregar a gestão municipal, que frequentemente carece de políticas e infraestrutura eficazes para a coleta e reciclagem.
-
+• Impactos ambientais: O descarte incorreto contribui para a degradação urbana e a criação de áreas que favorecem a proliferação de insetos, aumentando os riscos à saúde pública.
+• Desafios sociais: Consumidores descartam itens valiosos por falta de alternativas acessíveis. Além disso, indivíduos de baixa renda enfrentam desafios adicionais, pois a ausência de opções viáveis para o descarte e a aquisição sustentável, aliada a restrições financeiras, limita seu acesso a bens que poderiam melhorar sua qualidade de vida.
+• Problemas de mobilidade e infraestrutura: O acúmulo de resíduos em áreas urbanas prejudica a paisagem e a mobilidade, além de sobrecarregar a gestão municipal, que frequentemente carece de políticas e infraestrutura eficazes para a coleta e reciclagem.
 
 ## Objetivos
 
@@ -19,26 +17,25 @@ Objetivo Geral:
 Desenvolver uma solução web que integre as funcionalidades de reciclagem, doação e venda de itens, com foco local, promovendo o reaproveitamento de bens e contribuindo para a sustentabilidade urbana.
 
 Objetivos Específicos:
-    • Permitir o cadastro e a visualização de itens disponíveis para venda, doação e reciclagem, com filtros geográficos para facilitar a conexão entre usuários da mesma cidade ou região. 
-    • Oferecer orientações e informações sobre o descarte correto e a reciclagem de itens, estimulando práticas sustentáveis. 
-    • Facilitar a comunicação entre os usuários interessados, incentivando a economia colaborativa e a reutilização de produtos. 
-    • Contribuir para a redução dos impactos ambientais causados pelo descarte inadequado, promovendo a economia circular. 
-    • Apoiar a gestão municipal e as políticas públicas voltadas para a sustentabilidade, integrando iniciativas locais de reciclagem e reaproveitamento. 
-
+• Permitir o cadastro e a visualização de itens disponíveis para venda, doação e reciclagem, com filtros geográficos para facilitar a conexão entre usuários da mesma cidade ou região.
+• Oferecer orientações e informações sobre o descarte correto e a reciclagem de itens, estimulando práticas sustentáveis.
+• Facilitar a comunicação entre os usuários interessados, incentivando a economia colaborativa e a reutilização de produtos.
+• Contribuir para a redução dos impactos ambientais causados pelo descarte inadequado, promovendo a economia circular.
+• Apoiar a gestão municipal e as políticas públicas voltadas para a sustentabilidade, integrando iniciativas locais de reciclagem e reaproveitamento.
 
 ## Justificativa
 
 A criação desta plataforma se justifica pela necessidade urgente de repensar os modelos de consumo e descarte, principalmente em um contexto urbano onde os impactos ambientais e sociais estão cada vez mais evidentes. Entre os pontos que reforçam a relevância do projeto, destacam-se:
-    • Sustentabilidade e meio ambiente: Ao incentivar a reutilização e a reciclagem, a plataforma contribui para a diminuição do descarte inadequado e dos impactos ambientais, preservando a paisagem urbana e reduzindo riscos à saúde. 
-    • Inclusão social e economia local: A possibilidade de troca, doação e venda de itens beneficia tanto quem deseja se desfazer de produtos ainda úteis quanto quem busca adquirir bens a custos mais acessíveis, fomentando a economia local e a inclusão de pessoas de baixa renda. 
-    • Apoio a políticas públicas: Ao oferecer uma ferramenta prática e acessível para o gerenciamento de resíduos e a promoção do consumo consciente, o projeto pode auxiliar a gestão municipal na implementação de políticas de sustentabilidade e coleta seletiva. 
-    • Inovação e integração social: A proposta une três funcionalidades (reciclagem, doação e venda) em uma única plataforma, proporcionando uma solução integrada e inovadora que atende às demandas contemporâneas de sustentabilidade e mobilidade urbana. 
+• Sustentabilidade e meio ambiente: Ao incentivar a reutilização e a reciclagem, a plataforma contribui para a diminuição do descarte inadequado e dos impactos ambientais, preservando a paisagem urbana e reduzindo riscos à saúde.
+• Inclusão social e economia local: A possibilidade de troca, doação e venda de itens beneficia tanto quem deseja se desfazer de produtos ainda úteis quanto quem busca adquirir bens a custos mais acessíveis, fomentando a economia local e a inclusão de pessoas de baixa renda.
+• Apoio a políticas públicas: Ao oferecer uma ferramenta prática e acessível para o gerenciamento de resíduos e a promoção do consumo consciente, o projeto pode auxiliar a gestão municipal na implementação de políticas de sustentabilidade e coleta seletiva.
+• Inovação e integração social: A proposta une três funcionalidades (reciclagem, doação e venda) em uma única plataforma, proporcionando uma solução integrada e inovadora que atende às demandas contemporâneas de sustentabilidade e mobilidade urbana.
 
 ## Público-Alvo
 
 A solução proposta tem como foco atender a diversos segmentos, dentre os quais se destacam:
-    • Consumidores: Pessoas que desejam descartar itens que ainda estão em bom estado, mas que não encontram alternativas viáveis para a destinação correta, bem como aqueles que buscam adquirir produtos usados a preços acessíveis. 
-    • Moradores de áreas urbanas: Especialmente os que enfrentam desafios relacionados ao descarte de itens volumosos e que sofrem com os impactos visuais e sanitários decorrentes do descarte inadequado. 
-    • Pessoas carentes: Indivíduos e famílias de baixa renda que podem se beneficiar ao receber doações através da plataforma, tendo acesso a itens úteis.
-    • Comunidades e organizações locais: Grupos e cooperativas que promovem a reciclagem e a sustentabilidade, podendo utilizar a plataforma para ampliar suas ações. 
-    • Gestores municipais: Profissionais e órgãos responsáveis pela gestão de resíduos e pelo planejamento urbano, que podem se beneficiar de uma ferramenta integrada para otimizar a coleta e o descarte de resíduos.
+• Consumidores: Pessoas que desejam descartar itens que ainda estão em bom estado, mas que não encontram alternativas viáveis para a destinação correta, bem como aqueles que buscam adquirir produtos usados a preços acessíveis.
+• Moradores de áreas urbanas: Especialmente os que enfrentam desafios relacionados ao descarte de itens volumosos e que sofrem com os impactos visuais e sanitários decorrentes do descarte inadequado.
+• Pessoas carentes: Indivíduos e famílias de baixa renda que podem se beneficiar ao receber doações através da plataforma, tendo acesso a itens úteis.
+• Comunidades e organizações locais: Grupos e cooperativas que promovem a reciclagem e a sustentabilidade, podendo utilizar a plataforma para ampliar suas ações.
+• Gestores municipais: Profissionais e órgãos responsáveis pela gestão de resíduos e pelo planejamento urbano, que podem se beneficiar de uma ferramenta integrada para otimizar a coleta e o descarte de resíduos.
