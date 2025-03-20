@@ -1,7 +1,5 @@
 # Introdução
 
-O descarte indevido de lixo é um problema ambiental e social que afeta cidades e ecossistemas em todo o mundo. Quando resíduos não são descartados corretamente, eles podem contaminar o solo, a água e o ar, além de contribuir para enchentes, poluição visual/olfativa e a proliferação de doenças. Fatores como a falta de infraestrutura adequada para coleta, a ausência de conscientização da população e a irresponsabilidade de empresas e indivíduos agravam essa questão.
-
 O descarte indevido de lixo no Brasil é um problema fortemente influenciado pelo ambiente social e político, uma vez que aspectos como educação, infraestrutura, desigualdade e cultura moldam os hábitos da população. A falta de conscientização ambiental contribui para que muitas pessoas não saibam a maneira correta de descartar seus resíduos, tornando comum o acúmulo de lixo em ruas, rios e terrenos baldios. Esse problema se agrava em regiões onde a infraestrutura de coleta seletiva é precária ou inexistente, dificultando ainda mais a destinação correta dos materiais recicláveis.
 
 ## Problema
