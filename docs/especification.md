@@ -46,10 +46,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade | 
-|------|-----------------------------------------|----| 
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA |  
-|RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | MÉDIA | 
+| ID     | Descrição do Requisito                                 | Prioridade |
+| ------ | ------------------------------------------------------ | ---------- |
+| RF-001 | Cadastro via formulário                                | ALTA       |
+| RF-002 | Painel de gerenciamento de dados do usuário            | ALTA       |
+| RF-003 | Deletar conta de usuário                               | MÉDIA      |
+| RF-004 | Login e recuperação de senha por email                 | ALTA       |
+| RF-005 | Carrinho de compras                                    | MÉDIA      |
+| RF-006 | Permitir avaliação e comentários nas transações        | ALTA       |
+| RF-007 | Cadastro de produtos para venda/reciclagem/doação      | ALTA       |
+| RF-008 | Edição e remoção de produtos cadastrados               | ALTA       |
+| RF-009 | Listagem de produtos por usuário e por categoria       | ALTA       |
+| RF-010 | Filtros avançados para pesquisa de produtos            | ALTA       |
+| RF-011 | Geolocalização para visualização de itens próximos     | ALTA       |
+| RF-012 | Sistema de mensagens entre usuários                    | ALTA       |
+| RF-013 | Notificações sobre interações na plataforma            | MEDIA      |
 
 
 ### Requisitos não Funcionais
