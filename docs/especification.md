@@ -1,26 +1,80 @@
 # Especificações do Projeto
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
-
-Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
-
+ 
+Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais, além das restrições do projeto.
+ 
+A especificação do projeto foi realizada utilizando técnicas como a criação de personas, histórias de usuários e levantamento de requisitos, gerada pelos integrantes do grupo através de um brainstorming, onde cada um contribuiu com suas ideias. Para garantir a compreensão do contexto, foi utilizada a técnica de **Mapeamento de Personas** e **Histórias de Usuário**, além da categorização detalhada dos requisitos funcionais e não funcionais.
+ 
 ## Personas
-
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+ 
+#### Maria
+ 
+- **Idade**: 26 anos
+- **Profissão**: Advogada
+- **Motivação**: Manter sua casa organizada.
+- **Necessidade**: Encontrar uma maneira simples e rápida de se desfazer de itens usados (por meio de venda, doação ou envio para reciclagem) sem prejudicar o meio ambiente.
+ 
+#### Walter Lopes
+ 
+- **Idade**: 32 anos
+- **Profissão**: Profissional de TI
+- **Motivação**: Vender seus móveis e utensílios pessoais de maneira consciente
+- **Necessidade**: Vender utensílios de maneira rápida.
+ 
+#### Mariana Oliveira
+ 
+- **Idade:** 29 anos
+- **Profissão:** Estudante
+- **Motivação:** Economizar dinheiro.
+- **Necessidade:** Encontrar móveis e eletrodomésticos usados em boas condições por preços acessíveis.
+ 
+#### Roberto Carlos
+ 
+- **Idade:** 50 anos
+- **Profissão:** Proprietário de uma pequena rede de lojas de móveis usados.
+- **Motivação:** Integrar a sua empresa a práticas ecológicas e sociais.
+- **Necessidade:** Expandir seu negócio de forma sustentável.
+ 
+#### João da Silva
+ 
+- **Idade:** 50 anos
+- **Profissão:** Desempregado
+- **Motivação:** Melhorar sua qualidade de vida sem precisar gastar dinheiro com itens essenciais.
+- **Necessidade:** Conseguir móveis e utensílios domésticos gratuitamente.
+ 
+#### Pedro Paulo
+ 
+- **Idade:** 26 anos
+- **Profissão:** Artesão e empreendedor sustentável
+- **Motivação:** Promover a sustentabilidade através da criação de móveis feitos com garrafas PET.
+- **Necessidade:** Encontrar um fluxo constante de materiais recicláveis e alcançar mais clientes interessados em seus produtos sustentáveis.
+ 
+#### João Ferreira
+ 
+- **Idade:** 40 anos
+- **Profissão:** Coordenador de uma cooperativa de reciclagem
+- **Motivação:** Facilitar a coleta de materiais recicláveis e conectar-se a fornecedores e clientes.
+- **Necessidade:** Encontrar e organizar rotas de coleta de materiais recicláveis na região.
+ 
+#### Ricardo Lima
+ 
+- **Idade:** 42 anos
+- **Profissão:** Coletor autônomo de recicláveis
+- **Motivação:** Ampliar sua clientela e garantir uma fonte constante de materiais recicláveis.
+- **Necessidade:** Ter um sistema que mostre pontos de coleta de itens recicláveis e facilite o contato com doadores.
+ 
+#### Ramon Felipe
+ 
+- **Idade:** 25 anos
+- **Profissão:** Dono de um brechó - Autônomo
+- **Motivação:** Ampliar seus meios de venda
+- **Necessidade:** Aumentar a cartela de clientes e doar roupas que estão sem utilidade no seu estoque.
+ 
+#### Laura Vitória
+ 
+- **Idade:** 25 anos
+- **Profissão:** Dono de um restaurante - Autônoma
+- **Motivação:** Buscar informações sobre descarte correto
+- **Necessidade:** Orientar vizinhos sobre como/onde descartar corretamente para evitar acúmulo de lixo em terrenos vazios.
 
 ## Histórias de Usuários
 
