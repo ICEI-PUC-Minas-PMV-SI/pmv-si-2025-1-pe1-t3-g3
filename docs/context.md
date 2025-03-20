@@ -23,11 +23,29 @@ Objetivos Específicos:
 
 ## Justificativa
 
-A criação desta plataforma se justifica pela necessidade urgente de repensar os modelos de consumo e descarte, principalmente em um contexto urbano onde os impactos ambientais e sociais estão cada vez mais evidentes. Entre os pontos que reforçam a relevância do projeto, destacam-se:
-• Sustentabilidade e meio ambiente: Ao incentivar a reutilização e a reciclagem, a plataforma contribui para a diminuição do descarte inadequado e dos impactos ambientais, preservando a paisagem urbana e reduzindo riscos à saúde.
-• Inclusão social e economia local: A possibilidade de troca, doação e venda de itens beneficia tanto quem deseja se desfazer de produtos ainda úteis quanto quem busca adquirir bens a custos mais acessíveis, fomentando a economia local e a inclusão de pessoas de baixa renda.
-• Apoio a políticas públicas: Ao oferecer uma ferramenta prática e acessível para o gerenciamento de resíduos e a promoção do consumo consciente, o projeto pode auxiliar a gestão municipal na implementação de políticas de sustentabilidade e coleta seletiva.
-• Inovação e integração social: A proposta une três funcionalidades (reciclagem, doação e venda) em uma única plataforma, proporcionando uma solução integrada e inovadora que atende às demandas contemporâneas de sustentabilidade e mobilidade urbana.
+A criação desta plataforma se justifica pela necessidade urgente de repensar os modelos de consumo e descarte, principalmente em um contexto urbano onde os impactos ambientais e sociais estão cada vez mais evidentes. Dados recentes reforçam essa problemática, apontando para a gravidade do descarte inadequado e a necessidade de soluções inovadoras. Entre os pontos que destacam a relevância do projeto, temos:
+
+• Sustentabilidade e meio ambiente: O Brasil destinou de forma inadequada 33,3 milhões de toneladas de resíduos sólidos em 2022, o que equivale a 155 kg de lixo por habitante, impactando significativamente o meio ambiente e a qualidade de vida da população (ABREMA, 2024). Além disso, em 2023, 31,9% dos municípios brasileiros ainda despejavam seus resíduos sólidos em lixões, agravando os problemas ambientais e sanitários (IBGE, 2023). A plataforma proposta visa incentivar a reutilização e a reciclagem, reduzindo o descarte inadequado e seus impactos ambientais.
+
+• Inclusão social e economia local: A possibilidade de troca, doação e venda de itens contribui para a circulação de bens ainda úteis, permitindo que pessoas de baixa renda adquiram produtos de forma acessível. O incentivo ao consumo consciente também está alinhado com a tendência crescente entre os brasileiros, já que pesquisas indicam um aumento da preocupação com o consumo sustentável (G1, 2024).
+
+• Apoio a políticas públicas: A Lei de Incentivo à Reciclagem (Lei nº 14.260/2021) cria mecanismos para estimular a reciclagem no Brasil por meio de incentivos fiscais (MMA, 2024). Nossa plataforma pode atuar como uma ferramenta para facilitar a gestão de resíduos e fomentar a adesão a programas de coleta seletiva, auxiliando os municípios na implementação dessas políticas.
+
+• Inovação e integração social: O projeto unifica três funcionalidades principais, sendo elas: reciclagem, doação e venda, proporcionando uma solução integrada e eficiente. Em um contexto, onde o descarte inadequado de lixo gera impactos severos na população e no meio ambiente (UFPEL, 2023), iniciativas como esta tornam-se essenciais para a promoção de um modelo de consumo mais sustentável e responsável.
+
+Dessa forma, a plataforma proposta se apresenta como uma solução necessária para enfrentar o problema do descarte inadequado, promovendo sustentabilidade, inclusão social e apoio a políticas públicas, alinhando-se às demandas atuais por um meio ambiente mais equilibrado e uma economia mais solidária.
+
+Referências
+
+BRASIL DESTINOU 33,3 MILHÕES DE TONELADAS DE LIXO DE FORMA INADEQUADA EM 2022. Disponível em: <https://www.abrema.org.br/2024/07/18/brasil-destinou-333-milhoes-de-toneladas-de-lixo-de-forma-inadequada-em-2022/>. Acesso em: 16 mar. 2025.
+
+MUNIC 2023: 31,9% dos municípios brasileiros ainda despejam resíduos sólidos em lixões. Disponível em: <https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/41994-munic-2023-31-9-dos-municipios-brasileiros-ainda-despejam-residuos-solidos-em-lixoes>. Acesso em: 16 mar. 2025.
+
+Pesquisa mostra que o brasileiro está mais preocupado com o consumo sustentável. Disponível em: <https://g1.globo.com/jornal-nacional/noticia/2024/01/30/pesquisa-mostra-que-o-brasileiro-esta-mais-preocupado-com-o-consumo-sustentavel.ghtml>. Acesso em: 16 mar. 2025.
+
+LEI DE INCENTIVO A RECICLAGEM - Lei 14.260/21. Disponível em: <https://www.gov.br/mma/pt-br/assuntos/meio-ambiente-urbano-recursos-hidricos-qualidade-ambiental/lei-de-incentivo-a-reciclagem-lir/LIR>. Acesso em: 16 mar. 2025.
+
+O descarte incorreto de lixo no Brasil e o impacto causado na população. Disponível em: <https://wp.ufpel.edu.br/coisapublica/2023/09/06/o-descarte-incorreto-de-lixo-no-brasil-e-o-impacto-causado-na-populacao/?utm_source=chatgpt.com>. Acesso em: 16 mar. 2025.
 
 ## Público-Alvo
 
