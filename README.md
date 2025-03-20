@@ -1,4 +1,4 @@
-# Título do Projeto
+# EcoLink
 
 `CURSO: Sistemas de Informação`
 
@@ -6,20 +6,21 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Plataforma que integre reciclagem, doação e venda com foco local. A falta de alternativas viáveis, aliada aos altos custos de frete e dificuldades de transporte, incentiva o uso inadequado de lotes vagos para descarte, agravando os problemas ambientais e urbanos.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Daniella Ferreira Coutinho
+* Diego Miranda Mangerotti
+* Leonardo Henrique Soares dos Reis
+* Melania Pereira Chagas
+* Patrick Junio Pereira de Oliveira
+* Ruano Barros Pereira
 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Hayala Nepomuceno Curto
 
 # Planejamento
 
