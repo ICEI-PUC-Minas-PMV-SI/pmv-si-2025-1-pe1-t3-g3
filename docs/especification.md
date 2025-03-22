@@ -119,12 +119,26 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF-013 | Notificações sobre interações na plataforma            | MEDIA      |
 
 
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+### Requisitos Não Funcionais
+ 
+| ID      | Descrição do Requisito                                                                     | Prioridade |
+| ------- | ------------------------------------------------------------------------------------------ | ---------- |
+| RNF-001 | Controle de acesso baseado em funções.                                                     | ALTA       |
+| RNF-002 | Criptografia de dados dos usuários.                                                        | ALTA       |
+| RNF-003 | Conformidade com a LGPD para proteção de dados.                                            | ALTA       |
+| RNF-004 | Otimização de imagens para carregamento rápido.                                            | MÉDIA      |
+| RNF-005 | Implementação de cache para melhorar a velocidade das consultas.                           | MÉDIA      |
+| RNF-006 | Suporte a leitores de tela e acessibilidade visual.                                        | MÉDIA      |
+| RNF-007 | Ajuste de contraste e tipografia para melhor legibilidade.                                 | MÉDIA      |
+| RNF-008 | Registro de logs de atividades para auditoria e recuperar-se rapidamente de falhas.        | MÉDIA      |
+| RNF-009 | Monitoramento de falhas e disponibilidade do sistema.                                      | MÉDIA      |
+| RNF-010 | O sistema deve possuir testes de integração para validar a comunicação entre seus módulos. | ALTA       |
+| RNF-011 | O sistema deve ser multiplataforma.                                                        | ALTA       |
+| RNF-012 | O sistema deve possuir uma interface intuitiva e de fácil navegação para o usuário.        | MÉDIA      |
+| RNF-013 | O sistema deve ser capaz de lidar com um grande número de requisições de usuários.         | ALTA       |
+| RNF-014 | O site deve ser compatível com os principais navegadores web.                              | ALTA       |
+| RNF-015 | Deve haver um sistema de backup de todos os dados da plataforma.                           | ALTA       |
+| RNF-016 | A plataforma deve oferecer um suporte ao cliente eficiente.                                | ALTA       |
 
 
 
