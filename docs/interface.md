@@ -9,7 +9,7 @@ A tela inicial apresenta as 3 principais sessões do site que encaminham o usuá
 
 ![Exemplo de Wireframe](img/EcolinkTelaInicial.jpg)
 
-![Exemplo de Wireframe](img/EcolinkTelaInicial_Login.jpg)
+![Exemplo de Wireframe](img/EcolinkTelaInicial_login.jpg)
 
 ### Tela de login
 
