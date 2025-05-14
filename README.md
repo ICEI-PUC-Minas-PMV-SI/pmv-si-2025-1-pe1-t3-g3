@@ -13,7 +13,6 @@ Plataforma que integre reciclagem, doação e venda com foco local. A falta de a
 * Daniella Ferreira Coutinho
 * Diego Miranda Mangerotti
 * Leonardo Henrique Soares dos Reis
-* Melania Pereira Chagas
 * Patrick Junio Pereira de Oliveira
 * Ruano Barros Pereira
 
