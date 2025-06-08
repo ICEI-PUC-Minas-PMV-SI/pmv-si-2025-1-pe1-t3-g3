@@ -1,19 +1,11 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites, etc) utilizadas no desenvolvimento do trabalho.
+BRASIL DESTINOU 33,3 MILHÕES DE TONELADAS DE LIXO DE FORMA INADEQUADA EM 2022. Disponível em: https://www.abrema.org.br/2024/07/18/brasil-destinou-333-milhoes-de-toneladas-de-lixo-de-forma-inadequada-em-2022/ . Acesso em: 16 mar. 2025.
 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/referencias/)
+MUNIC 2023: 31,9% dos municípios brasileiros ainda descartam resíduos sólidos em lixões. Disponível em: https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/41994-munic-2023-31-9-dos-municipios-brasileiros-ainda-despejam-residuos-solidos-em-lixoes . Acesso em: 16 mar. 2025.
 
-Exemplos de referências bibliográficas:
+Pesquisa mostra que o brasileiro está mais preocupado com o consumo sustentável. Disponível em: https://g1.globo.com/jornal-nacional/noticia/2024/01/30/pesquisa-mostra-que-o-brasileiro-esta-mais-preocupado-com-o-consumo-sustentavel.ghtml . Acesso em: 16 mar. 2025.
 
-**[1]** - _ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001._
+LEI DE INCENTIVO À RECICLAGEM - Lei 14.260/21. Disponível em: https://www.gov.br/mma/pt-br/assuntos/meio-ambiente-urbano-recursos-hidricos-qualidade-ambiental/lei-de-incentivo-a-reciclagem-lir/LIR . Acesso em: 16 mar. 2025.
 
-**[2]** - _COPPIN, Ben. **Inteligência artificial**. Rio de Janeiro, RJ: LTC, c2010. E-book. ISBN 978-85-216-2936-8._
-
-**[3]** - _CORMEN, Thomas H. et al. **Algoritmos: teoria e prática**. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996._
-
-**[4]** - _SUTHERLAND, Jeffrey Victor. **Scrum: a arte de fazer o dobro do trabalho na metade do tempo**. 2. ed. rev. São Paulo, SP: Leya, 2016. 236, [4] p. ISBN 9788544104514._
-
-**[5]** - _RUSSELL, Stuart J.; NORVIG, Peter. **Inteligência artificial**. Rio de Janeiro: Elsevier, c2013. xxi, 988 p. ISBN 9788535237016._
-
+O descarte de lixo no Brasil e o impacto causado na população. Disponível em: https://wp.ufpel.edu.br/coisapublica/2023/09/06/o-descarte-incorreto-de-lixo-no-brasil-eo-impacto-causado-na-populacao/?utm_source=chatgpt.com . Acesso em: 16 mar. 2025.
