@@ -1,38 +1,35 @@
-
 # Projeto de Interface
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
+## User Flow e Wireframes
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+### Tela inicial
 
-## User Flow
+A tela inicial apresenta as 3 principais sessões do site que encaminham o usuário para a acessar determinada área. Abaixo temos a tela inicial com um botão onde o usuário irá ser encaminhado para entrar com sua conta ou criar uma conta, e, a tela inicial com o usuário logado.
 
-![Exemplo de UserFlow](img/userflow.jpg)
+![Exemplo de Wireframe](img/EcolinkTelaInicial.jpg)
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+![Exemplo de Wireframe](img/EcolinkTelaInicial_login.jpg)
 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+### Tela de login
 
+A tela de login apresenta as opções de acesso que o usuário possui de fazer login e também possui um link onde o usuário será encaminhado para criar uma conta. Nesta tela, é apresentado o seguinte requisito: RF-004.
 
-## Wireframes
+![Exemplo de Wireframe](img/Login.jpg)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface e é fundamental sempre relacionar cada wireframe com o(s) requisito(s) que ele atende.
+### Tela de cadastro de conta
 
-### Exemplo
+A tela de cadastro de conta apresenta as informações que o usuário precisa informar para criar uma conta. Nesta tela, é apresentado o seguinte requisito: RF-001.
 
-A tela inicial apresenta um menu lateral com as principais seções do portal, enquanto a navigation bar, ao topo, apresenta informações de envio de imagens ou navegação pela galeria de fotos. A área central apresenta a galeria de fotos na forma de uma grade. Nesta tela, são apresentados os seguintes requisitos
+![Exemplo de Wireframe](img/CriarConta.jpg)
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+### Tela de cadastro de produto
 
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+A tela de cadastro de produto apresenta as informações que o usuário precisa informar para cadastrar um produto, tanto para venda, quanto para doação. Nesta tela, é apresentado o seguinte requisito: RF-007.
+
+![Exemplo de Wireframe](img/CadastroDeProduto.jpg)
+
+### Tela de carrinho de compras
+
+A tela de carrinho de compras apresenta para o usuário os produtos escolhidos para comprar e o valor total do pedido. Nesta tela, é apresentado o seguinte requisito: RF-005.
+
+![Exemplo de Wireframe](img/CarrinhoDeCompras.jpg)
