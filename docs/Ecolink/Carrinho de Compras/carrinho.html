@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrinho de Compras - EcoLink</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    
+    <link href='https://cdn.boxicons.com/fonts/basic/boxicons.min.css' rel='stylesheet'>
+</head>
+
+<body>
+
+    <header>
+    
+        <div class="log"><a href="../Tela Inicial/index.html"><img src="img/logo.png" alt="Ecolink-icon"></a></div>
+        <div class="nme">ECOLINK</div>
+        <button class="perf"><div class="icon"><img src="img/icone.png" alt="icon">
+            <div class="usu">Usuario</div>
+        </div></button>
+    
+    </header>
+
+<main> 
+    
+    <div class="page-title">Seu Carrinho</div>
+    <div class="content">
+        <section>
+            <table>
+                <thead>
+                    <tr class="head">
+                        <th class="t1"><span>Produto</span></th>
+                        <th class="t1">Preço</th>
+                        <th class="t1">Quantidade</th>
+                        <th class="t1">Total</th>
+                        <th class="t1"></th>
+                    </tr>
+                   
+                </thead>
+
+                <tbody>
+            <tr>
+                 <td> 
+                <div class="produtc">
+                    <img src="https://picsum.photos/100/100" alt="Carrinho de compras">
+                    <div class="name"> Nome do produto
+                        <div class="category"> Categoria</div>
+                    </div>   
+                 </div>
+                 
+                </td>   
+                 <td>R$ 120</td>   
+                 <td>
+                    <div class="qty">
+                    <button><i class='bxr  bx-minus'  ></i> </button>
+                    <span>2</span>
+                    <button><i class='bxr  bx-plus'  ></i> </button>
+                 </div>
+                </td>   
+                 <td>R$ 240</td>   
+                 <td> <button class="remove"><i class='bxr  bx-x'  > </i></button> </td> 
+            </tr>
+            
+            <tr>
+                 <td> 
+                <div class="produtc">
+                    <img src="https://picsum.photos/100/100" alt="Carrinho de compras">
+                    <div class="name"> Nome do produto
+                        <div class="category"> Categoria</div>
+                    </div>   
+                 </div>
+                 
+                </td>   
+                 <td>R$ 100</td>   
+                 <td>
+                    <div class="qty">
+                    <button><i class='bxr  bx-minus'  ></i> </button>
+                    <span>1</span>
+                    <button><i class='bxr  bx-plus'  ></i> </button>
+                 </div>
+                </td>   
+                 <td>R$ 100</td>   
+                 <td> <button class="remove"><i class='bxr  bx-x'  > </i></button> </td> 
+            </tr>
+
+            <tr>
+                 <td> 
+                <div class="produtc">
+                    <img src="https://picsum.photos/100/100" alt="Carrinho de compras">
+                    <div class="name"> Nome do produto
+                        <div class="category"> Categoria</div>
+                    </div>   
+                 </div>
+                 
+                </td>   
+                 <td>R$ 50</td>   
+                 <td>
+                    <div class="qty">
+                    <button><i class='bxr  bx-minus'  ></i> </button>
+                    <span>3</span>
+                    <button><i class='bxr  bx-plus'  ></i> </button>
+                 </div>
+                </td>   
+                 <td>R$ 150</td>   
+                 <td> <button class="remove"><i class='bxr  bx-x'  > </i></button> </td> 
+            </tr>
+                </tbody>
+            </table>
+        </section>
+        <aside>
+            <div class="box">
+            <p>Resumo da compra</p1>
+                <div class="info">
+                    
+                    <div class="inf"><span>Sub-total</span><span>R$ 490</span></div>
+                    <div class="inf"><span>Frete</span><span>Gratuito</span></div>
+                    <div class="inf"><button class="add">Adicionar cupom de desconto<i class='bxr  bx-arrow-big-right'  ></i></button>
+                   <div id="cupom"><span>Cupom:</span></div>
+                    
+                    </div>
+                </div>
+            <footer>
+                <span>Total</span><span>R$ 590</span>
+            </footer>
+            
+            </div>
+            <button class="pay">Finalizar compra</button>
+        </aside>
+            </div>
+
+</main>
+
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
