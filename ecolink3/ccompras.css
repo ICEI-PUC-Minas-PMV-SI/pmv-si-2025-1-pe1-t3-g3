@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+        font-family: 'Inter';  
+}
+
+body{
+    background: #D9D9D9;
+    
+}
+.box{
+    display: flex;
+    justify-content:center;
+    width: flex;
+    background: white;
+    padding: 20px;
+    box-shadow: 1px 5px 5px gray;
+}
+
+.pag{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    
+}
+
+.img{
+    width: 40px;
+    
+}
+.txt{
+    width: 1600px;  
+    font-size: 23px;
+    
+}
+.txt1{
+    color: black;
+    padding: 2px;
+    font-size: 18px;
+    width: 200px;
+    
+}
+.usu{
+    
+    justify-content: center;
+    
+}
+
+.segcontainer{
+    background-color: #D9D9D9;
+    display: flex;
+    width: flex;
+    flex-direction: row;
+    
+    
+}
+.subcontainer{
+    background-color: #D9D9D9;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 50px;
+    right:  auto;
+    bottom: auto;
+    left: 100px;
+    
+    
+}
+
+.container{
+    background-color: white;
+    width: 350px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 13px 13px 13px;
+    box-shadow: 1px 5px 5px gray;
+}
+
+.product{
+    display: flex;
+    flex-direction: row;
+    margin: 12px;
+    font-family: 'Inter';
+       
+}
+
+.item1{
+    display: flex;
+    flex-direction: row;
+    color: black; 
+    font-size: 18px;
+    margin: 7px;
+}
+.value{
+    
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    color: black;
+    width: 330px;
+    font-size: 18px;
+
+}
+
+.subcontainer1{
+    background-color: #D9D9D9;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 150px;
+    right: auto;
+    bottom: auto;
+    left: 300px;
+    
+}
+
+.container2{
+    
+    background-color: white;
+    width: 200px;
+    height: 30px;
+    margin: 20px;
+    border-radius: 7px 7px 7px;
+    box-shadow: 1px 5px 5px gray;
+    
+}
+.container3{
+    
+    background-color: #1F3D23;
+    width: 110px;
+    height: 30px;
+    margin: 10px;
+    position: relative;
+    left: 50px;
+    
+    border-radius: 15px 15px 15px;
+    box-shadow: 1px 5px 5px gray;
+    
+}
+
+.value1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5px;
+  font-size: 17px;
+  color: black;  
+}
+
+.value2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 6px;
+  font-size: 15px;
+  color:white;
+  font-family: 'Inter';
+}
