@@ -3,95 +3,101 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Carrinho de Compras - Ecolink</title>
-    <link rel="stylesheet" href="ccompras.html">
-    <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
+    <title>Carrinho de Compras - EcoLink</title>
+    <link rel="stylesheet" href="ccompras.css">
+    <link rel="shortcut icon" href="/imagens/favicon.ico" type="image/x-icon">
+    
+    <link href='https://cdn.boxicons.com/fonts/basic/boxicons.min.css' rel='stylesheet'>
 </head>
+
 <body>
-    <div class="box">
 
-        <div class="img">
-         <img src="imagens/ecolink-tumb.png" alt="tumb">
-        </div>
-        <div class="txt">ECOLINK </div>
-        <div class="usu"> <img src="imagens/foto-usuario1.webp" alt="Foto-usuario"></div>
-        <div class="txt1">Usuario</div>
-    </div>
-
-<div class="segcontainer">
-
-    <div class="subcontainer">
-
-        <div class="container">
-        
-            <div class="product">
-            <img src="imagens/carrinho-foto.png" alt="carrinho">
-                <div class="item1">Produto 1</div>
-            </div>
-            <div class="value"> R$ 0,00</div>
-
-        </div>
-
-        <div class="container">
-        
-            <div class="product">
-            <img src="imagens/carrinho-foto.png" alt="carrinho">
-            <div class="item1">Produto 2</div>
-            
-            </div>
-            <div class="value"> R$ 0,00</div>
-        </div>
-
-        <div class="container">
-        
-            <div class="product">
-             <img src="imagens/carrinho-foto.png" alt="carrinho">
-             <div class="item1">Produto 3</div>
-            
-             </div>
-             <div class="value"> R$ 0,00</div>
-        </div>
-
-        <div class="container">
-            <div class="product">
-                <img src="imagens/carrinho-foto.png" alt="carrinho">
-                <div class="item1">Produto 4</div>
-            
-            </div>
-            <div class="value"> R$ 0,00</div>
-        </div>
-
-        <div class="container">
-        
-            <div class="product">
-
-            <img src="imagens/carrinho-foto.png" alt="carrinho">
-            
-            <div class="item1">Produto 5</div>
-            
-            
-            </div>
-
-            <div class="value"> R$ 0,00</div>
-        
-        </div>
-
-    </div>
-
-    <div class="subcontainer1">
-        <div class="container2">
-            <div class="value1">Valor Total:    R$0,00</div>
-        </div>
-
-        <div class="container3">
-            <div class="value2"> Pagamento</div>
-        </div>
-
-
-    </div>
+    <header>
     
+        <div class="log"><a href="index.html"><img src="imagens/logo1.png" alt="Ecolink-icon"></a></div>
+        <div class="nme">ECOLINK</div>
+        <button class="perf"><div class="icon"><a href="login.html"><img src="imagens/icone.png" alt="icon"></a>
+            <div class="usu">Usuario</div>
+        
+        </div></button>
+        <div class="carrinho"><a href="ccompras.html"><img src="imagens/carrinho2.png" alt="Carrinho"></a></div>
     
-</div>
+    </header>
+
+<main> 
+    
+    <div class="page-title">Seu Carrinho</div>
+    <div class="content">
+        <section>
+            <table>
+                <thead>
+                    <tr class="head">
+                        <th class="t1"><span>Produto</span></th>
+                        <th class="t1"><span>Preço</span></th>
+                        <th class="t1"><span>Quantidade</span></th>
+                        <th class="t1"><span>Total</span></th>
+                        <th class="t1"></th>
+                    </tr>
+                   
+                </thead>
+
+                <tbody>
+            <tr>
+                 <td> 
+                <div class="produtc">
+                    <img src="https://picsum.photos/100/100" alt="Carrinho de compras">
+                    <div id="name"> Nome do produto <br><div id="category"> Categoria</div> </div>
+                    
+                 </div>
+                 
+                  
+                 </td>
+
+                <td><div id="valor"><span></span></div></td>   
+                 <td>
+                    <div class="qty">
+                    <button onclick="diminuir()"><span><i class='bxr  bx-minus'></span></i> </button>
+                    <div id="qtd"><span></span></div>
+                    <button onclick="aumentar()"><span><i class='bxr  bx-plus'></i></span></button>
+                 </div>
+                </td> 
+                 <td><div id="total"><span></span></div></td> 
+                 <td> <button class="remove"><i class='bxr  bx-x'  > </i></button> </td> 
+            </tr>
+
+            
+                </tbody>
+            </table>
+        </section>
+        <aside>
+            <div class="box">
+            <p>Resumo da compra</p1>
+                <div class="info">
+                    
+                    <div class="inf"><span>Região</span><span></span></div>
+                    <div class="inf"><span>Frete</span><span>Gratuito</span></div>
+                    </div>
+                    <div class="inf2"><button class="add"><span>Adicionar cupom de desconto</span><i class='bxr  bx-arrow-big-right'  ></i></button>
+                   <div id="cupom"><span></span></div>
+                </div>
+            <footer>
+                <span>Total</span><span><div id="final"><span>R$ 590</span></div>
+            </footer>
+            
+            </div>
+            <button id="pay">Finalizar compra</button>
+        </aside>
+            </div>
+
+</main>
+
+
+
+<script src="ccscript.js">
+    
+
+    
+</script>
 
 </body>
 </html>
